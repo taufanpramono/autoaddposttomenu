@@ -1,2 +1,4 @@
-# aduto_add_post_to_menu
-the version one of the plugin, u can add on wordpress with snippet
+# Auto Add Menu When Pos Are add
+features of plugins:
+1. auto add post to menu based on title
+2. auto delete menu when post is deleted
